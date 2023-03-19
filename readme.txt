@@ -1,2 +1,2 @@
-i am very happy
-i got a job
+Git is a distributed version control system.
+Git is free software.
